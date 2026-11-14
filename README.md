@@ -1,7 +1,7 @@
 # SWYNEX Final Data Analytics Project
 
 **Project:** Retail Sales Performance Analysis and Interactive Business Intelligence Dashboard  
-**Student:** Lohit V. |
+**Student:** Lohit V
 
 This repository contains the final retail analytics project, including the raw and cleaned datasets, reproducible Python analysis, generated charts, a written project report, and an interactive Streamlit dashboard.
 
