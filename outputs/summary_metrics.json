@@ -1,0 +1,39 @@
+{
+  "rows": 12575,
+  "columns": 11,
+  "transactions_with_sales": 11971,
+  "transactions_excluded_missing_total": 604,
+  "recorded_sales": 1552071.0,
+  "average_transaction_value": 129.65,
+  "median_transaction_value": 108.5,
+  "unique_customers": 25,
+  "duplicate_transaction_ids": 0,
+  "potential_high_value_outliers_iqr": 60,
+  "date_min": "2022-01-01",
+  "date_max": "2025-01-18",
+  "category_sales": {
+    "Butchers": 208118.0,
+    "Electric household essentials": 203813.5,
+    "Beverages": 197047.5,
+    "Furniture": 195310.0,
+    "Food": 194812.0,
+    "Computers and electric accessories": 190692.5,
+    "Patisserie": 182165.5,
+    "Milk Products": 180112.0
+  },
+  "location_sales": {
+    "Online": 791401.0,
+    "In-store": 760670.0
+  },
+  "payment_sales": {
+    "Cash": 537710.0,
+    "Digital Wallet": 507279.0,
+    "Credit Card": 507082.0
+  },
+  "year_sales": {
+    "2022": 510329.5,
+    "2023": 491312.0,
+    "2024": 524881.0,
+    "2025": 25548.5
+  }
+}
